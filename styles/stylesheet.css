@@ -391,6 +391,10 @@ pre {
   .features-sub-head-text {
     animation: slideFromTop 1s ease-in;
   }
+  .showcase-form {
+    height: 350px;
+    width: 250px;
+  }
   .features-head img,
   .features-sub-head img {
     animation: slideFromBottom 1s ease-in;
